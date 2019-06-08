@@ -1,4 +1,4 @@
-# Sequence Extraction tool 
+# Sequence Extraction $ Analysis Tool 
 
 Early Version
 
