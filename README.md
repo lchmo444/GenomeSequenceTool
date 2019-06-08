@@ -3,8 +3,8 @@
 Early Version
 
 supportive format
-.maf\n
-.fps
+- .maf
+- .fps
 
 
 
