@@ -1,5 +1,6 @@
 # Sequence Extraction tool 
-test mode
+
+Early Version
 
 
 ![tool](tool.JPG)
