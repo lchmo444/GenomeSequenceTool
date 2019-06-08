@@ -1,0 +1,149 @@
+for (int i = index_nu; i < 17; ++i)
+		{
+			if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACAAA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACAAC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACAAG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACAAT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACACA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACACC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACACG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACACT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACAGA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACAGC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACAGG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACAGT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACATA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACATC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACATG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('A') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACATT;
+
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACCAA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACCAC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACCAG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACCAT;
+
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACCCA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACCCC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACCCG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACCCT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACCGA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACCGC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACCGG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACCGT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACCTA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACCTC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACCTG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('C') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACCTT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACGAA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACGAC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACGAG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACGAT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACGCA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACGCC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACGCG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACGCT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACGGA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACGGC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACGGG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACGGT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACGTA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACGTC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACGTG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('G') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACGTT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACTAA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACTAC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACTAG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('A') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACTAT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACTCA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACTCC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACTCG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('C') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACTCT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACTGA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACTGC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACTGG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('G') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACTGT;
+
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('A'))
+				++residue_ACTTA;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('C'))
+				++residue_ACTTC;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('G'))
+				++residue_ACTTG;
+			else if (in_dna_2[i]->Equals('A') && in_dna_2[i + 1]->Equals('C') && in_dna_2[i + 2]->Equals('T') && in_dna_2[i + 3]->Equals('T') && in_dna_2[i + 4]->Equals('T'))
+				++residue_ACTTT;
+
+		}

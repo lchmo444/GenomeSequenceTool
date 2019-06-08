@@ -1,0 +1,145 @@
+	int residue_CAAAAA = 0, residue_CAAAAC = 0, residue_CAAAAG = 0, residue_CAAAAT = 0, residue_CAAACA = 0, residue_CAAACC = 0, residue_CAAACG = 0, residue_CAAACT = 0;
+	int residue_CAAAGA = 0, residue_CAAAGC = 0, residue_CAAAGG = 0, residue_CAAAGT = 0, residue_CAAATA = 0, residue_CAAATC = 0, residue_CAAATG = 0, residue_CAAATT = 0;
+	int residue_CAACAA = 0, residue_CAACAC = 0, residue_CAACAG = 0, residue_CAACAT = 0, residue_CAACCA = 0, residue_CAACCC = 0, residue_CAACCG = 0, residue_CAACCT = 0;
+	int residue_CAACGA = 0, residue_CAACGC = 0, residue_CAACGG = 0, residue_CAACGT = 0, residue_CAACTA = 0, residue_CAACTC = 0, residue_CAACTG = 0, residue_CAACTT = 0;
+	int residue_CAAGAA = 0, residue_CAAGAC = 0, residue_CAAGAG = 0, residue_CAAGAT = 0, residue_CAAGCA = 0, residue_CAAGCC = 0, residue_CAAGCG = 0, residue_CAAGCT = 0;
+	int residue_CAAGGA = 0, residue_CAAGGC = 0, residue_CAAGGG = 0, residue_CAAGGT = 0, residue_CAAGTA = 0, residue_CAAGTC = 0, residue_CAAGTG = 0, residue_CAAGTT = 0;
+	int residue_CAATAA = 0, residue_CAATAC = 0, residue_CAATAG = 0, residue_CAATAT = 0, residue_CAATCA = 0, residue_CAATCC = 0, residue_CAATCG = 0, residue_CAATCT = 0;
+	int residue_CAATGA = 0, residue_CAATGC = 0, residue_CAATGG = 0, residue_CAATGT = 0, residue_CAATTA = 0, residue_CAATTC = 0, residue_CAATTG = 0, residue_CAATTT = 0;
+
+	int residue_CACAAA = 0, residue_CACAAC = 0, residue_CACAAG = 0, residue_CACAAT = 0, residue_CACACA = 0, residue_CACACC = 0, residue_CACACG = 0, residue_CACACT = 0;
+	int residue_CACAGA = 0, residue_CACAGC = 0, residue_CACAGG = 0, residue_CACAGT = 0, residue_CACATA = 0, residue_CACATC = 0, residue_CACATG = 0, residue_CACATT = 0;
+	int residue_CACCAA = 0, residue_CACCAC = 0, residue_CACCAG = 0, residue_CACCAT = 0, residue_CACCCA = 0, residue_CACCCC = 0, residue_CACCCG = 0, residue_CACCCT = 0;
+	int residue_CACCGA = 0, residue_CACCGC = 0, residue_CACCGG = 0, residue_CACCGT = 0, residue_CACCTA = 0, residue_CACCTC = 0, residue_CACCTG = 0, residue_CACCTT = 0;
+	int residue_CACGAA = 0, residue_CACGAC = 0, residue_CACGAG = 0, residue_CACGAT = 0, residue_CACGCA = 0, residue_CACGCC = 0, residue_CACGCG = 0, residue_CACGCT = 0;
+	int residue_CACGGA = 0, residue_CACGGC = 0, residue_CACGGG = 0, residue_CACGGT = 0, residue_CACGTA = 0, residue_CACGTC = 0, residue_CACGTG = 0, residue_CACGTT = 0;
+	int residue_CACTAA = 0, residue_CACTAC = 0, residue_CACTAG = 0, residue_CACTAT = 0, residue_CACTCA = 0, residue_CACTCC = 0, residue_CACTCG = 0, residue_CACTCT = 0;
+	int residue_CACTGA = 0, residue_CACTGC = 0, residue_CACTGG = 0, residue_CACTGT = 0, residue_CACTTA = 0, residue_CACTTC = 0, residue_CACTTG = 0, residue_CACTTT = 0;
+
+	int residue_CAGAAA = 0, residue_CAGAAC = 0, residue_CAGAAG = 0, residue_CAGAAT = 0, residue_CAGACA = 0, residue_CAGACC = 0, residue_CAGACG = 0, residue_CAGACT = 0;
+	int residue_CAGAGA = 0, residue_CAGAGC = 0, residue_CAGAGG = 0, residue_CAGAGT = 0, residue_CAGATA = 0, residue_CAGATC = 0, residue_CAGATG = 0, residue_CAGATT = 0;
+	int residue_CAGCAA = 0, residue_CAGCAC = 0, residue_CAGCAG = 0, residue_CAGCAT = 0, residue_CAGCCA = 0, residue_CAGCCC = 0, residue_CAGCCG = 0, residue_CAGCCT = 0;
+	int residue_CAGCGA = 0, residue_CAGCGC = 0, residue_CAGCGG = 0, residue_CAGCGT = 0, residue_CAGCTA = 0, residue_CAGCTC = 0, residue_CAGCTG = 0, residue_CAGCTT = 0;
+	int residue_CAGGAA = 0, residue_CAGGAC = 0, residue_CAGGAG = 0, residue_CAGGAT = 0, residue_CAGGCA = 0, residue_CAGGCC = 0, residue_CAGGCG = 0, residue_CAGGCT = 0;
+	int residue_CAGGGA = 0, residue_CAGGGC = 0, residue_CAGGGG = 0, residue_CAGGGT = 0, residue_CAGGTA = 0, residue_CAGGTC = 0, residue_CAGGTG = 0, residue_CAGGTT = 0;
+	int residue_CAGTAA = 0, residue_CAGTAC = 0, residue_CAGTAG = 0, residue_CAGTAT = 0, residue_CAGTCA = 0, residue_CAGTCC = 0, residue_CAGTCG = 0, residue_CAGTCT = 0;
+	int residue_CAGTGA = 0, residue_CAGTGC = 0, residue_CAGTGG = 0, residue_CAGTGT = 0, residue_CAGTTA = 0, residue_CAGTTC = 0, residue_CAGTTG = 0, residue_CAGTTT = 0;
+
+	int residue_CATAAA = 0, residue_CATAAC = 0, residue_CATAAG = 0, residue_CATAAT = 0, residue_CATACA = 0, residue_CATACC = 0, residue_CATACG = 0, residue_CATACT = 0;
+	int residue_CATAGA = 0, residue_CATAGC = 0, residue_CATAGG = 0, residue_CATAGT = 0, residue_CATATA = 0, residue_CATATC = 0, residue_CATATG = 0, residue_CATATT = 0;
+	int residue_CATCAA = 0, residue_CATCAC = 0, residue_CATCAG = 0, residue_CATCAT = 0, residue_CATCCA = 0, residue_CATCCC = 0, residue_CATCCG = 0, residue_CATCCT = 0;
+	int residue_CATCGA = 0, residue_CATCGC = 0, residue_CATCGG = 0, residue_CATCGT = 0, residue_CATCTA = 0, residue_CATCTC = 0, residue_CATCTG = 0, residue_CATCTT = 0;
+	int residue_CATGAA = 0, residue_CATGAC = 0, residue_CATGAG = 0, residue_CATGAT = 0, residue_CATGCA = 0, residue_CATGCC = 0, residue_CATGCG = 0, residue_CATGCT = 0;
+	int residue_CATGGA = 0, residue_CATGGC = 0, residue_CATGGG = 0, residue_CATGGT = 0, residue_CATGTA = 0, residue_CATGTC = 0, residue_CATGTG = 0, residue_CATGTT = 0;
+	int residue_CATTAA = 0, residue_CATTAC = 0, residue_CATTAG = 0, residue_CATTAT = 0, residue_CATTCA = 0, residue_CATTCC = 0, residue_CATTCG = 0, residue_CATTCT = 0;
+	int residue_CATTGA = 0, residue_CATTGC = 0, residue_CATTGG = 0, residue_CATTGT = 0, residue_CATTTA = 0, residue_CATTTC = 0, residue_CATTTG = 0, residue_CATTTT = 0;
+
+	int residue_CCAAAA = 0, residue_CCAAAC = 0, residue_CCAAAG = 0, residue_CCAAAT = 0, residue_CCAACA = 0, residue_CCAACC = 0, residue_CCAACG = 0, residue_CCAACT = 0;
+	int residue_CCAAGA = 0, residue_CCAAGC = 0, residue_CCAAGG = 0, residue_CCAAGT = 0, residue_CCAATA = 0, residue_CCAATC = 0, residue_CCAATG = 0, residue_CCAATT = 0;
+	int residue_CCACAA = 0, residue_CCACAC = 0, residue_CCACAG = 0, residue_CCACAT = 0, residue_CCACCA = 0, residue_CCACCC = 0, residue_CCACCG = 0, residue_CCACCT = 0;
+	int residue_CCACGA = 0, residue_CCACGC = 0, residue_CCACGG = 0, residue_CCACGT = 0, residue_CCACTA = 0, residue_CCACTC = 0, residue_CCACTG = 0, residue_CCACTT = 0;
+	int residue_CCAGAA = 0, residue_CCAGAC = 0, residue_CCAGAG = 0, residue_CCAGAT = 0, residue_CCAGCA = 0, residue_CCAGCC = 0, residue_CCAGCG = 0, residue_CCAGCT = 0;
+	int residue_CCAGGA = 0, residue_CCAGGC = 0, residue_CCAGGG = 0, residue_CCAGGT = 0, residue_CCAGTA = 0, residue_CCAGTC = 0, residue_CCAGTG = 0, residue_CCAGTT = 0;
+	int residue_CCATAA = 0, residue_CCATAC = 0, residue_CCATAG = 0, residue_CCATAT = 0, residue_CCATCA = 0, residue_CCATCC = 0, residue_CCATCG = 0, residue_CCATCT = 0;
+	int residue_CCATGA = 0, residue_CCATGC = 0, residue_CCATGG = 0, residue_CCATGT = 0, residue_CCATTA = 0, residue_CCATTC = 0, residue_CCATTG = 0, residue_CCATTT = 0;
+
+	int residue_CCCAAA = 0, residue_CCCAAC = 0, residue_CCCAAG = 0, residue_CCCAAT = 0, residue_CCCACA = 0, residue_CCCACC = 0, residue_CCCACG = 0, residue_CCCACT = 0;
+	int residue_CCCAGA = 0, residue_CCCAGC = 0, residue_CCCAGG = 0, residue_CCCAGT = 0, residue_CCCATA = 0, residue_CCCATC = 0, residue_CCCATG = 0, residue_CCCATT = 0;
+	int residue_CCCCAA = 0, residue_CCCCAC = 0, residue_CCCCAG = 0, residue_CCCCAT = 0, residue_CCCCCA = 0, residue_CCCCCC = 0, residue_CCCCCG = 0, residue_CCCCCT = 0;
+	int residue_CCCCGA = 0, residue_CCCCGC = 0, residue_CCCCGG = 0, residue_CCCCGT = 0, residue_CCCCTA = 0, residue_CCCCTC = 0, residue_CCCCTG = 0, residue_CCCCTT = 0;
+	int residue_CCCGAA = 0, residue_CCCGAC = 0, residue_CCCGAG = 0, residue_CCCGAT = 0, residue_CCCGCA = 0, residue_CCCGCC = 0, residue_CCCGCG = 0, residue_CCCGCT = 0;
+	int residue_CCCGGA = 0, residue_CCCGGC = 0, residue_CCCGGG = 0, residue_CCCGGT = 0, residue_CCCGTA = 0, residue_CCCGTC = 0, residue_CCCGTG = 0, residue_CCCGTT = 0;
+	int residue_CCCTAA = 0, residue_CCCTAC = 0, residue_CCCTAG = 0, residue_CCCTAT = 0, residue_CCCTCA = 0, residue_CCCTCC = 0, residue_CCCTCG = 0, residue_CCCTCT = 0;
+	int residue_CCCTGA = 0, residue_CCCTGC = 0, residue_CCCTGG = 0, residue_CCCTGT = 0, residue_CCCTTA = 0, residue_CCCTTC = 0, residue_CCCTTG = 0, residue_CCCTTT = 0;
+
+	int residue_CCGAAA = 0, residue_CCGAAC = 0, residue_CCGAAG = 0, residue_CCGAAT = 0, residue_CCGACA = 0, residue_CCGACC = 0, residue_CCGACG = 0, residue_CCGACT = 0;
+	int residue_CCGAGA = 0, residue_CCGAGC = 0, residue_CCGAGG = 0, residue_CCGAGT = 0, residue_CCGATA = 0, residue_CCGATC = 0, residue_CCGATG = 0, residue_CCGATT = 0;
+	int residue_CCGCAA = 0, residue_CCGCAC = 0, residue_CCGCAG = 0, residue_CCGCAT = 0, residue_CCGCCA = 0, residue_CCGCCC = 0, residue_CCGCCG = 0, residue_CCGCCT = 0;
+	int residue_CCGCGA = 0, residue_CCGCGC = 0, residue_CCGCGG = 0, residue_CCGCGT = 0, residue_CCGCTA = 0, residue_CCGCTC = 0, residue_CCGCTG = 0, residue_CCGCTT = 0;
+	int residue_CCGGAA = 0, residue_CCGGAC = 0, residue_CCGGAG = 0, residue_CCGGAT = 0, residue_CCGGCA = 0, residue_CCGGCC = 0, residue_CCGGCG = 0, residue_CCGGCT = 0;
+	int residue_CCGGGA = 0, residue_CCGGGC = 0, residue_CCGGGG = 0, residue_CCGGGT = 0, residue_CCGGTA = 0, residue_CCGGTC = 0, residue_CCGGTG = 0, residue_CCGGTT = 0;
+	int residue_CCGTAA = 0, residue_CCGTAC = 0, residue_CCGTAG = 0, residue_CCGTAT = 0, residue_CCGTCA = 0, residue_CCGTCC = 0, residue_CCGTCG = 0, residue_CCGTCT = 0;
+	int residue_CCGTGA = 0, residue_CCGTGC = 0, residue_CCGTGG = 0, residue_CCGTGT = 0, residue_CCGTTA = 0, residue_CCGTTC = 0, residue_CCGTTG = 0, residue_CCGTTT = 0;
+
+	int residue_CCTAAA = 0, residue_CCTAAC = 0, residue_CCTAAG = 0, residue_CCTAAT = 0, residue_CCTACA = 0, residue_CCTACC = 0, residue_CCTACG = 0, residue_CCTACT = 0;
+	int residue_CCTAGA = 0, residue_CCTAGC = 0, residue_CCTAGG = 0, residue_CCTAGT = 0, residue_CCTATA = 0, residue_CCTATC = 0, residue_CCTATG = 0, residue_CCTATT = 0;
+	int residue_CCTCAA = 0, residue_CCTCAC = 0, residue_CCTCAG = 0, residue_CCTCAT = 0, residue_CCTCCA = 0, residue_CCTCCC = 0, residue_CCTCCG = 0, residue_CCTCCT = 0;
+	int residue_CCTCGA = 0, residue_CCTCGC = 0, residue_CCTCGG = 0, residue_CCTCGT = 0, residue_CCTCTA = 0, residue_CCTCTC = 0, residue_CCTCTG = 0, residue_CCTCTT = 0;
+	int residue_CCTGAA = 0, residue_CCTGAC = 0, residue_CCTGAG = 0, residue_CCTGAT = 0, residue_CCTGCA = 0, residue_CCTGCC = 0, residue_CCTGCG = 0, residue_CCTGCT = 0;
+	int residue_CCTGGA = 0, residue_CCTGGC = 0, residue_CCTGGG = 0, residue_CCTGGT = 0, residue_CCTGTA = 0, residue_CCTGTC = 0, residue_CCTGTG = 0, residue_CCTGTT = 0;
+	int residue_CCTTAA = 0, residue_CCTTAC = 0, residue_CCTTAG = 0, residue_CCTTAT = 0, residue_CCTTCA = 0, residue_CCTTCC = 0, residue_CCTTCG = 0, residue_CCTTCT = 0;
+	int residue_CCTTGA = 0, residue_CCTTGC = 0, residue_CCTTGG = 0, residue_CCTTGT = 0, residue_CCTTTA = 0, residue_CCTTTC = 0, residue_CCTTTG = 0, residue_CCTTTT = 0;
+
+
+	int residue_CGAAAA = 0, residue_CGAAAC = 0, residue_CGAAAG = 0, residue_CGAAAT = 0, residue_CGAACA = 0, residue_CGAACC = 0, residue_CGAACG = 0, residue_CGAACT = 0;
+	int residue_CGAAGA = 0, residue_CGAAGC = 0, residue_CGAAGG = 0, residue_CGAAGT = 0, residue_CGAATA = 0, residue_CGAATC = 0, residue_CGAATG = 0, residue_CGAATT = 0;
+	int residue_CGACAA = 0, residue_CGACAC = 0, residue_CGACAG = 0, residue_CGACAT = 0, residue_CGACCA = 0, residue_CGACCC = 0, residue_CGACCG = 0, residue_CGACCT = 0;
+	int residue_CGACGA = 0, residue_CGACGC = 0, residue_CGACGG = 0, residue_CGACGT = 0, residue_CGACTA = 0, residue_CGACTC = 0, residue_CGACTG = 0, residue_CGACTT = 0;
+	int residue_CGAGAA = 0, residue_CGAGAC = 0, residue_CGAGAG = 0, residue_CGAGAT = 0, residue_CGAGCA = 0, residue_CGAGCC = 0, residue_CGAGCG = 0, residue_CGAGCT = 0;
+	int residue_CGAGGA = 0, residue_CGAGGC = 0, residue_CGAGGG = 0, residue_CGAGGT = 0, residue_CGAGTA = 0, residue_CGAGTC = 0, residue_CGAGTG = 0, residue_CGAGTT = 0;
+	int residue_CGATAA = 0, residue_CGATAC = 0, residue_CGATAG = 0, residue_CGATAT = 0, residue_CGATCA = 0, residue_CGATCC = 0, residue_CGATCG = 0, residue_CGATCT = 0;
+	int residue_CGATGA = 0, residue_CGATGC = 0, residue_CGATGG = 0, residue_CGATGT = 0, residue_CGATTA = 0, residue_CGATTC = 0, residue_CGATTG = 0, residue_CGATTT = 0;
+
+	int residue_CGCAAA = 0, residue_CGCAAC = 0, residue_CGCAAG = 0, residue_CGCAAT = 0, residue_CGCACA = 0, residue_CGCACC = 0, residue_CGCACG = 0, residue_CGCACT = 0;
+	int residue_CGCAGA = 0, residue_CGCAGC = 0, residue_CGCAGG = 0, residue_CGCAGT = 0, residue_CGCATA = 0, residue_CGCATC = 0, residue_CGCATG = 0, residue_CGCATT = 0;
+	int residue_CGCCAA = 0, residue_CGCCAC = 0, residue_CGCCAG = 0, residue_CGCCAT = 0, residue_CGCCCA = 0, residue_CGCCCC = 0, residue_CGCCCG = 0, residue_CGCCCT = 0;
+	int residue_CGCCGA = 0, residue_CGCCGC = 0, residue_CGCCGG = 0, residue_CGCCGT = 0, residue_CGCCTA = 0, residue_CGCCTC = 0, residue_CGCCTG = 0, residue_CGCCTT = 0;
+	int residue_CGCGAA = 0, residue_CGCGAC = 0, residue_CGCGAG = 0, residue_CGCGAT = 0, residue_CGCGCA = 0, residue_CGCGCC = 0, residue_CGCGCG = 0, residue_CGCGCT = 0;
+	int residue_CGCGGA = 0, residue_CGCGGC = 0, residue_CGCGGG = 0, residue_CGCGGT = 0, residue_CGCGTA = 0, residue_CGCGTC = 0, residue_CGCGTG = 0, residue_CGCGTT = 0;
+	int residue_CGCTAA = 0, residue_CGCTAC = 0, residue_CGCTAG = 0, residue_CGCTAT = 0, residue_CGCTCA = 0, residue_CGCTCC = 0, residue_CGCTCG = 0, residue_CGCTCT = 0;
+	int residue_CGCTGA = 0, residue_CGCTGC = 0, residue_CGCTGG = 0, residue_CGCTGT = 0, residue_CGCTTA = 0, residue_CGCTTC = 0, residue_CGCTTG = 0, residue_CGCTTT = 0;
+
+	int residue_CGGAAA = 0, residue_CGGAAC = 0, residue_CGGAAG = 0, residue_CGGAAT = 0, residue_CGGACA = 0, residue_CGGACC = 0, residue_CGGACG = 0, residue_CGGACT = 0;
+	int residue_CGGAGA = 0, residue_CGGAGC = 0, residue_CGGAGG = 0, residue_CGGAGT = 0, residue_CGGATA = 0, residue_CGGATC = 0, residue_CGGATG = 0, residue_CGGATT = 0;
+	int residue_CGGCAA = 0, residue_CGGCAC = 0, residue_CGGCAG = 0, residue_CGGCAT = 0, residue_CGGCCA = 0, residue_CGGCCC = 0, residue_CGGCCG = 0, residue_CGGCCT = 0;
+	int residue_CGGCGA = 0, residue_CGGCGC = 0, residue_CGGCGG = 0, residue_CGGCGT = 0, residue_CGGCTA = 0, residue_CGGCTC = 0, residue_CGGCTG = 0, residue_CGGCTT = 0;
+	int residue_CGGGAA = 0, residue_CGGGAC = 0, residue_CGGGAG = 0, residue_CGGGAT = 0, residue_CGGGCA = 0, residue_CGGGCC = 0, residue_CGGGCG = 0, residue_CGGGCT = 0;
+	int residue_CGGGGA = 0, residue_CGGGGC = 0, residue_CGGGGG = 0, residue_CGGGGT = 0, residue_CGGGTA = 0, residue_CGGGTC = 0, residue_CGGGTG = 0, residue_CGGGTT = 0;
+	int residue_CGGTAA = 0, residue_CGGTAC = 0, residue_CGGTAG = 0, residue_CGGTAT = 0, residue_CGGTCA = 0, residue_CGGTCC = 0, residue_CGGTCG = 0, residue_CGGTCT = 0;
+	int residue_CGGTGA = 0, residue_CGGTGC = 0, residue_CGGTGG = 0, residue_CGGTGT = 0, residue_CGGTTA = 0, residue_CGGTTC = 0, residue_CGGTTG = 0, residue_CGGTTT = 0;
+
+	int residue_CGTAAA = 0, residue_CGTAAC = 0, residue_CGTAAG = 0, residue_CGTAAT = 0, residue_CGTACA = 0, residue_CGTACC = 0, residue_CGTACG = 0, residue_CGTACT = 0;
+	int residue_CGTAGA = 0, residue_CGTAGC = 0, residue_CGTAGG = 0, residue_CGTAGT = 0, residue_CGTATA = 0, residue_CGTATC = 0, residue_CGTATG = 0, residue_CGTATT = 0;
+	int residue_CGTCAA = 0, residue_CGTCAC = 0, residue_CGTCAG = 0, residue_CGTCAT = 0, residue_CGTCCA = 0, residue_CGTCCC = 0, residue_CGTCCG = 0, residue_CGTCCT = 0;
+	int residue_CGTCGA = 0, residue_CGTCGC = 0, residue_CGTCGG = 0, residue_CGTCGT = 0, residue_CGTCTA = 0, residue_CGTCTC = 0, residue_CGTCTG = 0, residue_CGTCTT = 0;
+	int residue_CGTGAA = 0, residue_CGTGAC = 0, residue_CGTGAG = 0, residue_CGTGAT = 0, residue_CGTGCA = 0, residue_CGTGCC = 0, residue_CGTGCG = 0, residue_CGTGCT = 0;
+	int residue_CGTGGA = 0, residue_CGTGGC = 0, residue_CGTGGG = 0, residue_CGTGGT = 0, residue_CGTGTA = 0, residue_CGTGTC = 0, residue_CGTGTG = 0, residue_CGTGTT = 0;
+	int residue_CGTTAA = 0, residue_CGTTAC = 0, residue_CGTTAG = 0, residue_CGTTAT = 0, residue_CGTTCA = 0, residue_CGTTCC = 0, residue_CGTTCG = 0, residue_CGTTCT = 0;
+	int residue_CGTTGA = 0, residue_CGTTGC = 0, residue_CGTTGG = 0, residue_CGTTGT = 0, residue_CGTTTA = 0, residue_CGTTTC = 0, residue_CGTTTG = 0, residue_CGTTTT = 0;
+
+
+	int residue_CTAAAA = 0, residue_CTAAAC = 0, residue_CTAAAG = 0, residue_CTAAAT = 0, residue_CTAACA = 0, residue_CTAACC = 0, residue_CTAACG = 0, residue_CTAACT = 0;
+	int residue_CTAAGA = 0, residue_CTAAGC = 0, residue_CTAAGG = 0, residue_CTAAGT = 0, residue_CTAATA = 0, residue_CTAATC = 0, residue_CTAATG = 0, residue_CTAATT = 0;
+	int residue_CTACAA = 0, residue_CTACAC = 0, residue_CTACAG = 0, residue_CTACAT = 0, residue_CTACCA = 0, residue_CTACCC = 0, residue_CTACCG = 0, residue_CTACCT = 0;
+	int residue_CTACGA = 0, residue_CTACGC = 0, residue_CTACGG = 0, residue_CTACGT = 0, residue_CTACTA = 0, residue_CTACTC = 0, residue_CTACTG = 0, residue_CTACTT = 0;
+	int residue_CTAGAA = 0, residue_CTAGAC = 0, residue_CTAGAG = 0, residue_CTAGAT = 0, residue_CTAGCA = 0, residue_CTAGCC = 0, residue_CTAGCG = 0, residue_CTAGCT = 0;
+	int residue_CTAGGA = 0, residue_CTAGGC = 0, residue_CTAGGG = 0, residue_CTAGGT = 0, residue_CTAGTA = 0, residue_CTAGTC = 0, residue_CTAGTG = 0, residue_CTAGTT = 0;
+	int residue_CTATAA = 0, residue_CTATAC = 0, residue_CTATAG = 0, residue_CTATAT = 0, residue_CTATCA = 0, residue_CTATCC = 0, residue_CTATCG = 0, residue_CTATCT = 0;
+	int residue_CTATGA = 0, residue_CTATGC = 0, residue_CTATGG = 0, residue_CTATGT = 0, residue_CTATTA = 0, residue_CTATTC = 0, residue_CTATTG = 0, residue_CTATTT = 0;
+
+	int residue_CTCAAA = 0, residue_CTCAAC = 0, residue_CTCAAG = 0, residue_CTCAAT = 0, residue_CTCACA = 0, residue_CTCACC = 0, residue_CTCACG = 0, residue_CTCACT = 0;
+	int residue_CTCAGA = 0, residue_CTCAGC = 0, residue_CTCAGG = 0, residue_CTCAGT = 0, residue_CTCATA = 0, residue_CTCATC = 0, residue_CTCATG = 0, residue_CTCATT = 0;
+	int residue_CTCCAA = 0, residue_CTCCAC = 0, residue_CTCCAG = 0, residue_CTCCAT = 0, residue_CTCCCA = 0, residue_CTCCCC = 0, residue_CTCCCG = 0, residue_CTCCCT = 0;
+	int residue_CTCCGA = 0, residue_CTCCGC = 0, residue_CTCCGG = 0, residue_CTCCGT = 0, residue_CTCCTA = 0, residue_CTCCTC = 0, residue_CTCCTG = 0, residue_CTCCTT = 0;
+	int residue_CTCGAA = 0, residue_CTCGAC = 0, residue_CTCGAG = 0, residue_CTCGAT = 0, residue_CTCGCA = 0, residue_CTCGCC = 0, residue_CTCGCG = 0, residue_CTCGCT = 0;
+	int residue_CTCGGA = 0, residue_CTCGGC = 0, residue_CTCGGG = 0, residue_CTCGGT = 0, residue_CTCGTA = 0, residue_CTCGTC = 0, residue_CTCGTG = 0, residue_CTCGTT = 0;
+	int residue_CTCTAA = 0, residue_CTCTAC = 0, residue_CTCTAG = 0, residue_CTCTAT = 0, residue_CTCTCA = 0, residue_CTCTCC = 0, residue_CTCTCG = 0, residue_CTCTCT = 0;
+	int residue_CTCTGA = 0, residue_CTCTGC = 0, residue_CTCTGG = 0, residue_CTCTGT = 0, residue_CTCTTA = 0, residue_CTCTTC = 0, residue_CTCTTG = 0, residue_CTCTTT = 0;
+
+	int residue_CTGAAA = 0, residue_CTGAAC = 0, residue_CTGAAG = 0, residue_CTGAAT = 0, residue_CTGACA = 0, residue_CTGACC = 0, residue_CTGACG = 0, residue_CTGACT = 0;
+	int residue_CTGAGA = 0, residue_CTGAGC = 0, residue_CTGAGG = 0, residue_CTGAGT = 0, residue_CTGATA = 0, residue_CTGATC = 0, residue_CTGATG = 0, residue_CTGATT = 0;
+	int residue_CTGCAA = 0, residue_CTGCAC = 0, residue_CTGCAG = 0, residue_CTGCAT = 0, residue_CTGCCA = 0, residue_CTGCCC = 0, residue_CTGCCG = 0, residue_CTGCCT = 0;
+	int residue_CTGCGA = 0, residue_CTGCGC = 0, residue_CTGCGG = 0, residue_CTGCGT = 0, residue_CTGCTA = 0, residue_CTGCTC = 0, residue_CTGCTG = 0, residue_CTGCTT = 0;
+	int residue_CTGGAA = 0, residue_CTGGAC = 0, residue_CTGGAG = 0, residue_CTGGAT = 0, residue_CTGGCA = 0, residue_CTGGCC = 0, residue_CTGGCG = 0, residue_CTGGCT = 0;
+	int residue_CTGGGA = 0, residue_CTGGGC = 0, residue_CTGGGG = 0, residue_CTGGGT = 0, residue_CTGGTA = 0, residue_CTGGTC = 0, residue_CTGGTG = 0, residue_CTGGTT = 0;
+	int residue_CTGTAA = 0, residue_CTGTAC = 0, residue_CTGTAG = 0, residue_CTGTAT = 0, residue_CTGTCA = 0, residue_CTGTCC = 0, residue_CTGTCG = 0, residue_CTGTCT = 0;
+	int residue_CTGTGA = 0, residue_CTGTGC = 0, residue_CTGTGG = 0, residue_CTGTGT = 0, residue_CTGTTA = 0, residue_CTGTTC = 0, residue_CTGTTG = 0, residue_CTGTTT = 0;
+
+	int residue_CTTAAA = 0, residue_CTTAAC = 0, residue_CTTAAG = 0, residue_CTTAAT = 0, residue_CTTACA = 0, residue_CTTACC = 0, residue_CTTACG = 0, residue_CTTACT = 0;
+	int residue_CTTAGA = 0, residue_CTTAGC = 0, residue_CTTAGG = 0, residue_CTTAGT = 0, residue_CTTATA = 0, residue_CTTATC = 0, residue_CTTATG = 0, residue_CTTATT = 0;
+	int residue_CTTCAA = 0, residue_CTTCAC = 0, residue_CTTCAG = 0, residue_CTTCAT = 0, residue_CTTCCA = 0, residue_CTTCCC = 0, residue_CTTCCG = 0, residue_CTTCCT = 0;
+	int residue_CTTCGA = 0, residue_CTTCGC = 0, residue_CTTCGG = 0, residue_CTTCGT = 0, residue_CTTCTA = 0, residue_CTTCTC = 0, residue_CTTCTG = 0, residue_CTTCTT = 0;
+	int residue_CTTGAA = 0, residue_CTTGAC = 0, residue_CTTGAG = 0, residue_CTTGAT = 0, residue_CTTGCA = 0, residue_CTTGCC = 0, residue_CTTGCG = 0, residue_CTTGCT = 0;
+	int residue_CTTGGA = 0, residue_CTTGGC = 0, residue_CTTGGG = 0, residue_CTTGGT = 0, residue_CTTGTA = 0, residue_CTTGTC = 0, residue_CTTGTG = 0, residue_CTTGTT = 0;
+	int residue_CTTTAA = 0, residue_CTTTAC = 0, residue_CTTTAG = 0, residue_CTTTAT = 0, residue_CTTTCA = 0, residue_CTTTCC = 0, residue_CTTTCG = 0, residue_CTTTCT = 0;
+	int residue_CTTTGA = 0, residue_CTTTGC = 0, residue_CTTTGG = 0, residue_CTTTGT = 0, residue_CTTTTA = 0, residue_CTTTTC = 0, residue_CTTTTG = 0, residue_CTTTTT = 0;
